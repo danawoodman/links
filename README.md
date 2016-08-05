@@ -14,6 +14,7 @@
 
 - [Frisby.js](http://frisbyjs.com/) -- REST API JavaScript testing
 - [NightWatch.js](http://nightwatchjs.org/) -- Node.js browser testing
+- [Tempest](http://docs.openstack.org/developer/tempest/overview.html) -- OpenStack's integration testing framework
 
 ## Game Creation
 
