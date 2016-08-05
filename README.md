@@ -18,10 +18,12 @@
 - [Consul](https://www.consul.io/) - Service discovery
 - [Otto](https://www.ottoproject.io/) - Replacement for Vagrant
 
+
 ### Logging + Monitoring
 
 - [Rollbar](https://rollbar.com/) -- Error tracking service
 - [Airbrake](https://airbrake.io/) - Error and log tracking service
+- [Data Dog](https://www.datadoghq.com/) - Cloud monitoring
 
 
 ### Testing
@@ -38,6 +40,7 @@
 - [Swagger](http://swagger.io/) - API framework
 - [tmate](https://tmate.io/) - Terminal sharing
 - [Dash](https://kapeli.com/dash) - Snippet manager
+- [Nylas N1](https://www.nylas.com/) - Hackable, open source email client
 
 
 ### Payments
@@ -66,6 +69,7 @@
 
 - [Gun](https://gun.io) - Freelancer project directory
 - [Nomad List](https://nomadlist.com) - Great directory, forum and tools for digital nomads
+- [Hacker Couch](https://hackercouch.com/) - Couch surfing for hackers
 
 ## Contributing
 
