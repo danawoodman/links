@@ -8,9 +8,20 @@
 - [Serverless](http://serverless.com/) -- Use AWS Lambda as a framework for building web apps
 
 
-### CI/CD/Infrastructure
+### CI/CD
 
 - [LambCI](https://github.com/lambci/lambci) -- Serverless CI using AWS Lambda
+
+
+### Infrastructure
+
+- [Consul](https://www.consul.io/) - Service discovery
+- [Otto](https://www.ottoproject.io/) - Replacement for Vagrant
+
+### Logging + Monitoring
+
+- [Rollbar](https://rollbar.com/) -- Error tracking service
+- [Airbrake](https://airbrake.io/) - Error and log tracking service
 
 
 ### Testing
@@ -24,11 +35,37 @@
 ### Tooling + Productivity
 
 - [Flow](https://flowtype.org/) -- Type checking for JavaScript, by Facebook
+- [Swagger](http://swagger.io/) - API framework
+- [tmate](https://tmate.io/) - Terminal sharing
+- [Dash](https://kapeli.com/dash) - Snippet manager
+
+
+### Payments
+
+- [Plasso](https://plasso.co/) - Storefront, wallet, payment processor
+
+
+### Business Tools
+
+- [Bare Metrics](https://demo.baremetrics.com/) - Metrics for Stripe
+- [Stunning](https://stunning.co) - Dunning emails as a service
+
 
 ### Game Creation
 
 - [Phaser.io](http://phaser.io/) -- JavaScript game framework
-- 
+
+
+### Design + UI/UX
+
+- [Sketch](http://www.sketchapp.com/) - Photoshop/Illustrator alternative for web/mobile
+- [TypeForm](https://www.typeform.com/) - Form builder
+
+
+### Freelancer Related
+
+- [Gun](https://gun.io) - Freelancer project directory
+- [Nomad List](https://nomadlist.com) - Great directory, forum and tools for digital nomads
 
 ## Contributing
 
